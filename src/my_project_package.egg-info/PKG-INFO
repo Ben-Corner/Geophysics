@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: my-project-package
+Version: 0.0.1
+Summary: Python package
+Author-email: Ben Corner <Ben.Corner88@gmail.com>
+Project-URL: Homepage, https://github.com/Ben-Corner/Geophysics
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: GNU General Public License v3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Geophysics
+
+#Code and script to practice on
